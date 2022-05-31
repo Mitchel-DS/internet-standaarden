@@ -1,2 +1,2 @@
 # internet-standaarden
-School Project for Internet Standaarden - Version 1.0 for CCG Clan website 
+School Project for Internet Standaarden - CCG Clan website
